@@ -1,15 +1,17 @@
-# Project Name
+# Project02
 
-Context and date
-
-Description
+An interactive space shooter created on September 24, 2022.
 
 ## Implementation
-Which features you included
+- New assets and background
+- Flying ship that shoots bullets and has enemy.
 
 ## References
+- Background created in Procreate by Riley Schweiss
+- Sprites created in Piskel by Riley Schweiss
 
 ## Future Development
+- none
 
 ## Created by
-Jason Francis
+Riley Schweiss
